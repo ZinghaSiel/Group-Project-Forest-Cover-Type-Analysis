@@ -6,6 +6,7 @@ This Project consists of Forest Cover Type Analysis with datasets obtained from 
 Some imagery from Descartes Labs platform which require API authentication:
 https://docs.descarteslabs.com/authentication.html 
 Requirements for using Descartes Labs platform:
+
 conda install shapely
 
 conda install gdal
