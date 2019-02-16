@@ -15,7 +15,7 @@ pip install descarteslabs
 
 descarteslabs auth login
 
-# Machine Learning with Forest Cover Type data
+# Machine Learning with Forest Cover Type Data
 Dataset from UCI Machine Learning Repository
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/
