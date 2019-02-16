@@ -19,3 +19,7 @@ descarteslabs auth login
 Dataset from UCI Machine Learning Repository
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/
+
+
+An overview of this project can be viewed at:
+https://slides.com/arodell/deck-1
